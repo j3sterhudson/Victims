@@ -5,28 +5,28 @@
 
 **Hospitals:**
 
-- Grandview Medical Center
+- Grandview Medical Center    (payed)
 - Lakeside Hospital
-- Greenfield Medical Center
-- Mountainview Hospital
+- Greenfield Medical Center   (payed)
+- Mountainview Hospital       (payed)
 - Oceanview Health Center
-- Brookside Medical Clinic
+- Brookside Medical Clinic    (payed)
 
 
 **Energy / Power Sources:** 
 
 - Mr. Fusion Home Energy Reactor
-- Proton Packs
-- Animatter Reactors
+- Proton Packs              (payed)
+- Animatter Reactors        (payed)
 - Warpio Corp
-- Enegi3 Reactor
+- Enegi3 Reactor            (payed)
 
 **Water Plants:** 
 
-- AquaGen
-- WRP Water Recycling Plant
+- AquaGen                    (payed)
+- WRP Water Recycling Plant  (payed)
 - AquaDome
-- Atmospheric Water Generator
+- Atmospheric Water Generator (payed)
 
 **Harbors**
-- WestKap Harbour Club
+- WestKap Harbour Club      (payed)
