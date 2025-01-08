@@ -1,1 +1,1 @@
-[![Narlock Logo] (https://ibb.co/mDMj4yR "Narlock Logo")
+When you entered here, you are about to pay for your bits & bytes
