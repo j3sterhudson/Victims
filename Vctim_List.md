@@ -5,7 +5,7 @@
 
 **Hospitals:**
 
-- Grandview Medical Center    (payed)
+- Grandview Medical Center [payed]
 - Lakeside Hospital
 - Greenfield Medical Center   (payed)
 - Mountainview Hospital       (payed)
