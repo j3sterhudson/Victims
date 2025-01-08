@@ -3,10 +3,10 @@
 
 **Hospitals:**
 
-Grandview Medical Center
-Lakeside Hospital
-Greenfield Medical Center
-Mountainview Hospital
+- Grandview Medical Center
+- Lakeside Hospital
+- Greenfield Medical Center
+- Mountainview Hospital
 Oceanview Health Center
 Brookside Medical Clinic
 
