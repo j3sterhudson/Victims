@@ -1,4 +1,4 @@
-### TEST MESSAGE (CTF) ###
+# TEST MESSAGE (CTF) 
 
 **Subject:** Your files are encr
 
