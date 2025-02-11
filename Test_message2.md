@@ -1,4 +1,4 @@
-# Test Message example 2
+# Test Message example 2 (CTF)
 
 [Victim],
 
